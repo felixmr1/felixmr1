@@ -13,8 +13,4 @@
 <img src="https://komarev.com/ghpvc/?username=felixmr1&style=flat-square&color=blue" alt=""/>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=felixmr1&theme=catppuccin-latte&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmr1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![felixmr1 GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmr1&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=felixmr1&theme=catppuccin-latte&hide_border=true&mode=weekly&background=45%2CEBEBEB00%2CFFFFFF00)](https://git.io/streak-stats)
